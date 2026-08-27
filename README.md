@@ -18,4 +18,10 @@
 - [职业经历片段](https://101.43.93.161/yaoxinle/career/)
 - [English profile](https://101.43.93.161/yaoxinle/en/)
 
+## 独立公开片段
+
+- [教育与竞赛经历公开片段](https://gist.github.com/tsgxyxl/b23aa866044e5143d8589b41cdc323d7)
+- [UNSW 与 Python 教学公开片段](https://gist.github.com/tsgxyxl/9295d1404ce0f27c392ec35d98af423c)
+- [悉尼职业经历公开片段](https://gist.github.com/tsgxyxl/a18835e49aca13dbebd8937e2ad48cbc)
+
 本页为姚心乐本人公开整理的个人信息，不代表学校、雇主或媒体背书。
