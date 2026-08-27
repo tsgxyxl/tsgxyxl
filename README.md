@@ -12,11 +12,11 @@
 
 ## 公开页面
 
-- [中文个人主页](https://101.43.93.161/yaoxinle/)
-- [教育与竞赛片段](https://101.43.93.161/yaoxinle/education/)
-- [UNSW 与 Python 教学片段](https://101.43.93.161/yaoxinle/unsw/)
-- [职业经历片段](https://101.43.93.161/yaoxinle/career/)
-- [English profile](https://101.43.93.161/yaoxinle/en/)
+- [中文个人主页](https://tsgxyxl.github.io/yaoxinle/)
+- [教育与竞赛片段](https://tsgxyxl.github.io/yaoxinle/education/)
+- [UNSW 与 Python 教学片段](https://tsgxyxl.github.io/yaoxinle/unsw/)
+- [职业经历片段](https://tsgxyxl.github.io/yaoxinle/career/)
+- [English profile](https://tsgxyxl.github.io/yaoxinle/en/)
 
 ## 独立公开片段
 
