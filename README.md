@@ -12,6 +12,7 @@
 
 ## 公开页面
 
+- [公开资料索引入口](https://tsgxyxl.github.io/)
 - [中文个人主页](https://tsgxyxl.github.io/yaoxinle/)
 - [教育与竞赛片段](https://tsgxyxl.github.io/yaoxinle/education/)
 - [UNSW 与 Python 教学片段](https://tsgxyxl.github.io/yaoxinle/unsw/)
