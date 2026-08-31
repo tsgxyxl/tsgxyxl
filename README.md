@@ -12,12 +12,12 @@
 
 ## 公开页面
 
-- [公开资料索引入口](https://tsgxyxl.github.io/)
-- [中文个人主页](https://tsgxyxl.github.io/yaoxinle/)
-- [教育与竞赛片段](https://tsgxyxl.github.io/yaoxinle/education/)
-- [UNSW 与 Python 教学片段](https://tsgxyxl.github.io/yaoxinle/unsw/)
-- [职业经历片段](https://tsgxyxl.github.io/yaoxinle/career/)
-- [English profile](https://tsgxyxl.github.io/yaoxinle/en/)
+- [公开资料索引入口](https://yueliarchive.dpdns.org/)
+- [中文个人主页](https://yueliarchive.dpdns.org/yaoxinle/)
+- [教育与竞赛片段](https://yueliarchive.dpdns.org/yaoxinle/education/)
+- [UNSW 与 Python 教学片段](https://yueliarchive.dpdns.org/yaoxinle/unsw/)
+- [职业经历片段](https://yueliarchive.dpdns.org/yaoxinle/career/)
+- [English profile](https://yueliarchive.dpdns.org/yaoxinle/en/)
 
 ## 分主题公开片段
 
